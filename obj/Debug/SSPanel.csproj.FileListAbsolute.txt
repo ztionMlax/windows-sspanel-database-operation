@@ -1,0 +1,15 @@
+C:\Users\ztion\source\repos\SSPanel\bin\Debug\SSPanel.exe.config
+C:\Users\ztion\source\repos\SSPanel\bin\Debug\SSPanel.exe
+C:\Users\ztion\source\repos\SSPanel\bin\Debug\SSPanel.pdb
+C:\Users\ztion\source\repos\SSPanel\obj\Debug\SSPanel.csprojAssemblyReference.cache
+C:\Users\ztion\source\repos\SSPanel\obj\Debug\SSPanel.Properties.Resources.resources
+C:\Users\ztion\source\repos\SSPanel\obj\Debug\SSPanel.csproj.GenerateResource.cache
+C:\Users\ztion\source\repos\SSPanel\obj\Debug\SSPanel.csproj.CoreCompileInputs.cache
+C:\Users\ztion\source\repos\SSPanel\obj\Debug\SSPanel.exe
+C:\Users\ztion\source\repos\SSPanel\obj\Debug\SSPanel.pdb
+C:\Users\ztion\source\repos\SSPanel\obj\Debug\SSPanel.Login.resources
+C:\Users\ztion\source\repos\SSPanel\bin\Debug\MySql.Data.dll
+C:\Users\ztion\source\repos\SSPanel\bin\Debug\Google.Protobuf.dll
+C:\Users\ztion\source\repos\SSPanel\bin\Debug\MySql.Data.xml
+C:\Users\ztion\source\repos\SSPanel\obj\Debug\SSPanel.csproj.CopyComplete
+C:\Users\ztion\source\repos\SSPanel\obj\Debug\SSPanel.frmmain.resources
